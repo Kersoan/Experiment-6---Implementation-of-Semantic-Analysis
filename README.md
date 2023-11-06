@@ -1,4 +1,4 @@
-# Program to Identify Verbs and Provide Synonyms using Natural Language Processing
+# EX--08--Program to Identify Verbs and Provide Synonyms using Natural Language Processing
 
 ## AIM
 Construct a Python program to read a text from a file. Identify the verbs from the text file and provide synonyms for all verbs using Natural Language Processing.
@@ -23,8 +23,8 @@ Construct a Python program to read a text from a file. Identify the verbs from t
 
 ## PROGRAM
 ```
-Developed By: VISHAL GOWTHAMAN K R
-## REG NO: 212221230123
+Developed By:KERSOAN P
+## REG NO: 212221230050
 ```
 ```python
 import nltk
